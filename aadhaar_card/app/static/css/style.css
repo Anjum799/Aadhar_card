@@ -1,0 +1,119 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    text-decoration-color:black;
+    height: 90px;
+    width: 98%;
+    background-color: #000;
+    color: white;
+}
+ul>li>a{
+    color: white;
+}
+.aadhaar-card {
+    width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.aadhaar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+}
+
+.aadhaar-header h1, .aadhaar-header h2 {
+    margin: 0;
+    font-weight: normal;
+}
+
+.aadhaar-header h1 {
+    font-size: 20px;
+    color: #00558b;
+}
+
+.aadhaar-header h2 {
+    font-size: 22px;
+    color: #333;
+}
+
+.aadhaar-logo img {
+    width: 80px;
+    height: 80px;
+}
+
+/* Aadhaar Details Section */
+.aadhaar-details {
+    display: flex;
+    margin-top: 30px;
+}
+
+.photo-section {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.aadhaar-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+.details {
+    flex: 2;
+    font-size: 16px;
+}
+
+.details p {
+    margin: 10px 0;
+}
+
+.details p strong {
+    font-weight: bold;
+}
+
+.details p span {
+    color: #333;
+}
+
+/* Footer Section */
+.aadhaar-footer {
+    text-align: center;
+    font-size: 14px;
+    color: #888;
+    margin-top: 30px;
+}
+
+.aadhaar-footer p {
+    margin: 5px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

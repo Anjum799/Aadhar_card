@@ -1,0 +1,44 @@
+.aadhaar-card {
+    width: 400px;
+    border: 2px solid black;
+    padding: 20px;
+    text-align:left;
+    font-family: Arial, sans-serif;
+}
+.header{
+    display: flex;
+}
+
+.header h2 {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.content img {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+.aadhaar-short-card {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.aadhaar-short-card img {
+    width: 80px;
+    height: 80px;
+}

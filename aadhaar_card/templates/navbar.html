@@ -1,0 +1,19 @@
+{% comment %} nav.bar {% endcomment %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aadhaar Project</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    {% comment %} <link rel="stylesheet" href="{% static 'css/navbar.css' %}"> {% endcomment %}
+</head>
+<body>
+    <nav>
+        <a href="{% url 'aadhaar_form' %}">Aadhaar Form</a>
+        <a href="{% url 'aadhaar_full_card' 1 %}">Aadhaar Full Card</a>
+        <a href="{% url 'aadhaar_short_card' 1 %}">Aadhaar Short Card</a>
+    </nav>
+    {% block content %} {% endblock %}
+</body>
+</html>
