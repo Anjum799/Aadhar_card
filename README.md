@@ -1,2 +1,2 @@
 # Aadhar_card
-This project generates a digital Aadhaar card using user details like name, DOB, and Aadhaar number.It gene
+This project generates a digital Aadhaar card using user details like name, DOB, and Aadhaar number.It genera
