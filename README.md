@@ -4,4 +4,4 @@ and a QR code.
 
 # 🖥️ Languages Used
 
-### HT
+### HTM
