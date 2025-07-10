@@ -5,4 +5,4 @@ and a QR code.
 # 🖥️ Languages Used
 
 ### HTML/CSS :-
-  if using a w
+  if using a we
