@@ -3,8 +3,7 @@ This project generates a digital Aadhaar card using user details like name, DOB,
 and a QR code.
 
 # 🖥️ Languages Used
-
-### HTML/CSS :-
+HTML/CSS :-
   Using for web interface
 # 🚀 Features
   User form
