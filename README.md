@@ -6,4 +6,4 @@ and a QR code.
 HTML/CSS :-
   Using for web interface
 # 🚀 Features
-  User form to enter personal Aadhaar 
+  User form to enter personal Aadhaar details
