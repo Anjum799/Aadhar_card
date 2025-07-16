@@ -7,4 +7,4 @@ HTML/CSS :-
   Using for web interface
 # 🚀 Features
  1. User form to enter personal Aadhaar details
-  Generates a Full Aadhaar Card
+ 2. Generates a Full Aadhaar Card
