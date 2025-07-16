@@ -7,4 +7,4 @@ HTML/CSS :-
   Using for web interface
 # 🚀 Features
  1. User form to enter personal Aadhaar details
- 2. Generat
+ 2. Generates 
