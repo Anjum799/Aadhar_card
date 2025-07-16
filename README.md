@@ -6,5 +6,5 @@ and a QR code.
 HTML/CSS :-
   Using for web interface
 # 🚀 Features
- 1. User form to enter personal Aadhaar details
+ 1. User form to enter personal Aadhaar details.
  2. Generates a Full Aadhaar Card
