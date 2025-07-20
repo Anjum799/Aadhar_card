@@ -12,4 +12,4 @@ HTML/CSS :-
  4. Displays and saves the generated Aadhaar 
      card image.
     
-      5.Random 
+ 5.Random 
