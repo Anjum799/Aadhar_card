@@ -10,6 +10,6 @@ HTML/CSS :-
  2. Generates a Full Aadhaar Card.
  3. Generates a Short Aadhaar Card.
  4. Displays and saves the generated Aadhaar     card image.
- 5. 
+ 5. Random  number generation option
     
      
