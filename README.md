@@ -11,6 +11,6 @@ HTML/CSS :-
  3. Generates a Short Aadhaar Card.
  4. Displays and saves the generated Aadhaar     card image.
  5. Random Aadhaar number generation option.
- 6. Image support for user profile p
+ 6. Image support for user profile ph
 
      
