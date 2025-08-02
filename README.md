@@ -12,6 +12,6 @@ HTML/CSS :-
  4. Displays and saves the generated Aadhaar     card image.
  5. Random Aadhaar number generation option.
  6. Image support for user profile photo.
- 7. Includes government logos and lay structure similar to original Aadhaar card.
+ 7. Includes government logos and layo structure similar to original Aadhaar card.
 
      
