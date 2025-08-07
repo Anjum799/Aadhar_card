@@ -13,4 +13,4 @@ HTML/CSS :-
  5. Random Aadhaar number generation option.
  6. Image support for user profile photo.
  7. Includes government logos and layout structure similar to original Aadhaar card.
-# 🔧 Technologes/Librarie Used
+# 🔧 Technologies/Librarie Used
