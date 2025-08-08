@@ -14,4 +14,4 @@ HTML/CSS :-
  6. Image support for user profile photo.
  7. Includes government logos and layout structure similar to original Aadhaar card.
 # 🔧 Technologies/Libraries Used
-Pytho Python 3.x
+Pyth Python 3.x
