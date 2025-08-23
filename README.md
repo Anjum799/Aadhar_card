@@ -16,5 +16,5 @@ HTML/CSS :-
 # 🔧 Technologies/Libraries Used
 Python 3.x 
 random – to generate random Aadhaar numbers
-datetime – for te handling
+datetime – for dte handling
 os – for path handling
