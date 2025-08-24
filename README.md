@@ -17,4 +17,4 @@ HTML/CSS :-
 Python 3.x 
 random – to generate random Aadhaar numbers
 datetime – for date handling
-os – or path handling
+os – for path handling
