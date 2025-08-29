@@ -15,6 +15,7 @@ HTML/CSS :-
  7. Includes government logos and layout structure similar to original Aadhaar card.
 # 🔧 Technologies/Libraries Used
 Python 3.x
+
 random – to generate random Aadhaar numbers
 datetime – for date handling
 os – for path handling
