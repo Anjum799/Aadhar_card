@@ -19,6 +19,6 @@ Python 3.x
 
 random – to generate random Aadhaar numbers
 
-datetime – for date handling
+datetime – for date handlin
 
 os – for path handling
