@@ -23,5 +23,5 @@ datetime – for date handling
 
 os – for path handling
 # 💻 Requirements (Dependencies)
-You can install 
+You can install these 
 
