@@ -29,7 +29,7 @@ bash
 
 Copy
 
-Edit
+Edi
 
 
 
