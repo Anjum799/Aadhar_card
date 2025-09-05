@@ -26,7 +26,7 @@ os – for path handling
 You can install these with pip:
 bash
 Copy
-Ed
+E
 
 
 
