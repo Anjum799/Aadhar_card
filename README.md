@@ -31,7 +31,7 @@ Copy
 
 Edit
 
-pip install pil
+pip install pill
 
 
 
