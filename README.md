@@ -31,7 +31,7 @@ Copy
 
 Edit
 
-pip install pillow
+pip install pillo
 
 
 
