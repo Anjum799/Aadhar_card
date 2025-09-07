@@ -31,6 +31,8 @@ Copy
 
 Edit
 
+pip install pillow
+
 
 
 
