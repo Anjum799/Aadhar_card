@@ -33,7 +33,7 @@ Edit
 
 pip install pillow
 
-# Minimum system requireme
+# Minimum system requirem
 
 
 
