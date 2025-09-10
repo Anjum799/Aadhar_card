@@ -36,6 +36,6 @@ pip install pillow
 # Minimum system requirements:
 RAM: 2 GB or more
 
-Python version: Python 3.8 or high
+Python version: Python 3.8 or highe
 
 
