@@ -34,5 +34,6 @@ Edit
 pip install pillow
 
 # Minimum system requirements:
+RAM: 2 GB or more
 
 
