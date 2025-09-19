@@ -38,5 +38,6 @@ pip install pillow
 RAM: 2 GB or more.
 
 Python version: Python 3.8 or higher
+
 OS: Windows
 
