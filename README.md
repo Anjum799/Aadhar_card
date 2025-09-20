@@ -40,5 +40,6 @@ RAM: 2 GB or more.
 Python version: Python 3.8 or higher
 
 OS: Windows
+
 Storage: Minimum 100 MB space for dependencies and saved cards
 
