@@ -48,5 +48,5 @@ Storage: Minimum 100 MB space for dependencies and saved cards
 
 Extract the ZIP
 
-Install Python & Required Librar
+Install Python & Required Libraries
 
