@@ -50,4 +50,4 @@ Extract the ZIP
 
 Install Python & Required Libraries
 
-Install the required librarie
+Install the required libraries
