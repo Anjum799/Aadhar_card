@@ -1,3 +1,4 @@
+
  # Aadhar_card
 This project generates a digital Aadhaar card using user details like name, DOB, and Aadhaar number.It generates two versions: a full Aadhaar card and a short Aadhaar card with user details 
 and a QR code.
@@ -48,5 +49,5 @@ Extract the ZIP
 
 Install Python & Required Libraries
 
-Install the required libraries:
+# Install the required libraries:
 Copy
