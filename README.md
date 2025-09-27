@@ -56,3 +56,5 @@ Copy
 Edit
 
 pip install pillow
+Run the Project
+
