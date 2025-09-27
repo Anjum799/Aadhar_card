@@ -25,8 +25,6 @@ os – for path handling
 # 💻 Requirements (Dependencies)
 You can install these with pip:
 
-bash
-
 Copy
 
 Edit
