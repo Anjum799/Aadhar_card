@@ -54,3 +54,4 @@ Install Python & Required Libraries
 Copy
 
 Edit
+pip install pillow
