@@ -58,4 +58,4 @@ Edit
 pip install pillow
 
 Run the Project.
-healt
+heal
