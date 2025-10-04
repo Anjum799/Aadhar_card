@@ -57,5 +57,4 @@ Edit
 
 pip install pillow
 
-Run the Projec
-
+Run the Project
