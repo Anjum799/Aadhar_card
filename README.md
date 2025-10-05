@@ -65,5 +65,5 @@ bash
 Copy
 Edit
 python main.py
-Usa
+Usage
 
