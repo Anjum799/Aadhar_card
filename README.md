@@ -58,3 +58,5 @@ Edit
 pip install pillow
 
 Run the Project.
+
+#Navigate to the project directory
