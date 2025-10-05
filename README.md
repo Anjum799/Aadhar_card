@@ -60,3 +60,10 @@ pip install pillow
 Run the Project.
 
 # Navigate to the project directory Run the main file using:
+
+bash
+Copy
+Edit
+python main.py
+Usage
+
