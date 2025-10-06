@@ -67,5 +67,5 @@ Edit
 python main.py
 Usage
 
-Fill in the user f
+Fill in the user fo
 
