@@ -67,5 +67,5 @@ Edit
 python main.py
 Usage
 
-Fill in 
+Fill in the 
 
