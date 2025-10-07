@@ -69,4 +69,4 @@ Usage
 
 Fill in the user form
 
-Choose whether to generate full
+Choose whether to generate full or 
