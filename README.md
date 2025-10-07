@@ -69,5 +69,5 @@ Usage
 
 Fill in the user form
 
-Choose whether  to 
+Choose whether to 
 
