@@ -70,5 +70,5 @@ Fill in the user form
 
 Choose whether to generate full or short Aadhaar
 
-Click the 
+Click the Generate 
 
