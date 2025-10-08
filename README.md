@@ -65,10 +65,9 @@ Copy
 Edit
 python main.py
 Usage
-
 Fill in the user form
 
 Choose whether to generate full or short Aadhaar
 
-Click the Generate 
+Click the Generate button 
 
