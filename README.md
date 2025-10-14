@@ -1,4 +1,4 @@
-e # Aadhar_card
+ # Aadhar_card
 This project generates a digital Aadhaar card using user details like name, DOB, and Aadhaar number.It generates two versions: a full Aadhaar card and a short Aadhaar card with user details 
 and a QR code.
 
@@ -71,4 +71,4 @@ Choose whether to generate full or short Aadhaar
 
 Click the Generate button
 
-The Card Will b
+The Card Will be
