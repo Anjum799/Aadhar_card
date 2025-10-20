@@ -71,4 +71,4 @@ Choose whether to generate full or short Aadhaar
 
 Click the Generate button
 
-The Card Will be generated
+The Card Will be generated.
