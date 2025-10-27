@@ -70,4 +70,4 @@ Fill in the user form
 Choose whether to generate full or short Aadhaar
 
 Click the Generate button
-Card Will be generated.
+TCard Will be generated.
