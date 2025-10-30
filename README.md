@@ -57,7 +57,7 @@ Edit
 pip install pillow
 
 Run the Project.
-T
+
 
 # Navigate to the project directory Run the main file using:
 
@@ -72,3 +72,4 @@ Choose whether to generate full or short Aadhaar
 
 Click the Generate button
 The Card Will be generated.
+T
