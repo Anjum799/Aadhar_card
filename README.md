@@ -57,6 +57,7 @@ Edit
 pip install pillow
 
 Run the Project.
+T
 
 # Navigate to the project directory Run the main file using:
 
